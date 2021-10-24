@@ -27,6 +27,7 @@ function Blog() {
                 <h5 className="project__text">Fetch API</h5>
                 <h4 className="project__text">Show Fetched data in a table</h4>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://github.com/alifhaider/fetchAPI"
                   className="blog project__btn btn"
@@ -50,9 +51,16 @@ function Blog() {
                 <h4 className="project__text">
                   A social media site to write posts
                 </h4>
-                <a target="_blank" href="#" className="blog project__btn btn">
-                  Github Repo
-                </a>
+                <button disabled="true">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="/"
+                    className="blog project__btn btn"
+                  >
+                    No Repo Yet
+                  </a>
+                </button>
               </div>
             </div>
           </div>
@@ -70,7 +78,7 @@ function Blog() {
                 <h4 className="project__text">
                   E-commerce site with Cart functionalities
                 </h4>
-                <a target="_blank" href="#" className="blog project__btn btn">
+                <a target="_blank" href="/" className="blog project__btn btn">
                   Github Repo
                 </a>
               </div>
