@@ -1,5 +1,5 @@
 .home__bg {
-  background-image: url("F:\React Apps\New Potfolio\portfolio\src\img\bg.jpg");
+  background-image: url("\src\img\bg.jpg");
   background-color: #010101;
   background-position: 50%;
   background-repeat: no-repeat;
