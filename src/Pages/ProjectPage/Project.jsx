@@ -32,6 +32,7 @@ function Project() {
                   <strong>carefulsecurity.com</strong>
                 </h4>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://carefulsecurity.com"
                   className="project__btn"
@@ -56,6 +57,7 @@ function Project() {
                   <strong>orchardtour.com</strong>
                 </h4>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://orchardtour.com"
                   className="project__btn"
@@ -80,6 +82,7 @@ function Project() {
                   <strong>sekharbasubooks.com</strong>
                 </h4>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://sekharbasubooks.com"
                   className="project__btn"
